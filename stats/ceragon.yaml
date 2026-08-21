@@ -1,8 +1,20 @@
 username: ceragon
-updatedAt: 2026-08-21T14:20:45.638Z
-skills: {}
+updatedAt: 2026-08-21T15:51:15.817Z
+skills:
+  wait-what:
+    count: 1
+    lastUsed: 2026-08-21T15:08:50.891Z
+  beads:
+    count: 1
+    lastUsed: 2026-08-21T15:50:58.402Z
 interventions:
-  sessions: 2
+  sessions: 3
   interrupt: 0
   toolReject: 0
   correction: 0
+prompts: 7
+tokens:
+  input: 0
+  output: 0
+  cacheRead: 0
+  cacheCreation: 0
