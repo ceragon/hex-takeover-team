@@ -1,5 +1,5 @@
 username: ceragon
-updatedAt: 2026-08-24T14:58:30.694Z
+updatedAt: 2026-08-24T16:25:17.692Z
 skills:
   wait-what:
     count: 1
@@ -25,12 +25,18 @@ skills:
   to-tickets:
     count: 1
     lastUsed: 2026-08-24T09:05:45.313Z
+  diagnosing-bugs:
+    count: 1
+    lastUsed: 2026-08-24T14:58:50.912Z
+  playwright:
+    count: 1
+    lastUsed: 2026-08-24T15:01:30.855Z
 interventions:
-  sessions: 14
+  sessions: 15
   interrupt: 1
   toolReject: 2
   correction: 3
-prompts: 124
+prompts: 125
 tokens:
   input: 901526
   output: 0
