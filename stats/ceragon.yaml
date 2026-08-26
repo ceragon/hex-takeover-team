@@ -1,9 +1,9 @@
 username: ceragon
-updatedAt: 2026-08-25T05:09:40.414Z
+updatedAt: 2026-08-26T04:50:07.468Z
 skills:
   wait-what:
-    count: 1
-    lastUsed: 2026-08-21T15:08:50.891Z
+    count: 2
+    lastUsed: 2026-08-25T14:14:44.026Z
   beads:
     count: 1
     lastUsed: 2026-08-21T15:50:58.402Z
@@ -17,8 +17,8 @@ skills:
     count: 2
     lastUsed: 2026-08-23T02:17:52.829Z
   ask-matt:
-    count: 1
-    lastUsed: 2026-08-23T14:05:11.644Z
+    count: 2
+    lastUsed: 2026-08-25T14:16:46.614Z
   to-spec:
     count: 1
     lastUsed: 2026-08-24T09:01:48.442Z
@@ -32,20 +32,23 @@ skills:
     count: 1
     lastUsed: 2026-08-24T15:01:30.855Z
   implement:
-    count: 1
-    lastUsed: 2026-08-24T16:35:11.676Z
+    count: 5
+    lastUsed: 2026-08-25T11:59:07.035Z
   code-review:
-    count: 1
-    lastUsed: 2026-08-24T16:37:58.737Z
+    count: 6
+    lastUsed: 2026-08-25T12:54:19.052Z
   setup-matt-pocock-skills:
     count: 1
     lastUsed: 2026-08-25T04:58:02.711Z
+  writing-for-agents:
+    count: 1
+    lastUsed: 2026-08-25T14:39:28.535Z
 interventions:
-  sessions: 1
+  sessions: 3
   interrupt: 0
   toolReject: 0
   correction: 0
-prompts: 143
+prompts: 159
 tokens:
   input: 901526
   output: 0
