@@ -1,5 +1,5 @@
 username: ceragon
-updatedAt: 2026-08-30T03:00:08.874Z
+updatedAt: 2026-08-30T04:00:09.205Z
 skills:
   wait-what:
     count: 2
@@ -35,8 +35,8 @@ skills:
     count: 8
     lastUsed: 2026-08-28T16:01:27.820Z
   code-review:
-    count: 10
-    lastUsed: 2026-08-29T13:13:54.582Z
+    count: 11
+    lastUsed: 2026-08-30T03:12:27.345Z
   setup-matt-pocock-skills:
     count: 1
     lastUsed: 2026-08-25T04:58:02.711Z
@@ -52,7 +52,7 @@ skills:
   deploy-html:
     count: 2
     lastUsed: 2026-08-30T00:28:48.359Z
-prompts: 54
+prompts: 55
 tokens:
   input: 0
   output: 0
