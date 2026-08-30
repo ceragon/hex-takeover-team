@@ -1,5 +1,5 @@
 username: ceragon
-updatedAt: 2026-08-30T06:00:10.007Z
+updatedAt: 2026-08-30T06:45:27.273Z
 skills:
   wait-what:
     count: 2
@@ -52,7 +52,12 @@ skills:
   deploy-html:
     count: 2
     lastUsed: 2026-08-30T00:28:48.359Z
-prompts: 57
+interventions:
+  sessions: 1
+  interrupt: 0
+  toolReject: 0
+  correction: 0
+prompts: 58
 tokens:
   input: 0
   output: 0
